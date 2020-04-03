@@ -83,7 +83,11 @@
   float: right;
 }
 
-#unityContainer{
-    width: 1080px;
-    height:1080px;
+
+.unityContainer {
+  max-width: 1080px;
+  max-height: 1080px;
+
+  width: 100%;
+  height: 100%;
 }
