@@ -1,3 +1,7 @@
+body{
+  background:black;
+}
+
 .webgl-content * {
   border: 0;
   margin: 0;
@@ -9,7 +13,6 @@
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  background:black;
 }
 
 .webgl-content .logo,
